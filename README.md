@@ -111,6 +111,10 @@ activate or deactivate voicemail.
 The primary inbox button changes from **Connect to Fizz** to **Refresh inbox**
 after the app successfully loads the mailbox. Listing and playback are read-only.
 
+## Support
+
+[Support BulleVox on Ko-fi](https://ko-fi.com/karlb79925)
+
 ## License
 
 BulleVox's original code and assets are available under the [MIT License](LICENSE).
